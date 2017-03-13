@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "78239643831",
+    "firebase_url": "https://fir-69895.firebaseio.com",
+    "project_id": "fir-69895",
+    "storage_bucket": "fir-69895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78239643831:android:e8e5ac4f24d5d518",
+        "android_client_info": {
+          "package_name": "sms.backup.tech.soft.lockscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78239643831-eh6r7ph7snqt987tii978sgh5jfk72kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoHeqWTGAjZ8-zmK4st9E-Br7I55GGglY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78239643831:android:585b1f2ede1137a4",
+        "android_client_info": {
+          "package_name": "sms.backup.tech.soft.applock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78239643831-eh6r7ph7snqt987tii978sgh5jfk72kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoHeqWTGAjZ8-zmK4st9E-Br7I55GGglY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
